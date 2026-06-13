@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+temp_*.wav
+temp_*.flac
+temp_*.mp3
+*.pyc
+debug_pa.py
+
+#Datasets
+ASVspoof2019_*/
+custom_data/
+custom_dataset/
+
+# Node
+deepfake-ui/node_modules/
+deepfake-ui/dist/
+
+# OS Files
+.DS_Store
