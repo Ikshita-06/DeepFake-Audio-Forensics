@@ -25,3 +25,8 @@ The forensic pipeline utilizes two specialized neural engines operating in paral
 ## 🛠️ Tech Stack
 * **Backend:** Python, FastAPI, TensorFlow (Keras), Scikit-Learn, Librosa
 * **Frontend:** React, Vite, Wavesurfer.js, HTML5 Canvas
+
+## 🔍 Visualizing the Deepfake Analysis
+<img width="1128" height="635" alt="WhatsApp Image 2026-06-13 at 11 32 33 PM" src="https://github.com/user-attachments/assets/b7b107ab-4a29-4c96-86a2-089520c88b2d" />
+
+<img width="1131" height="631" alt="WhatsApp Image 2026-06-13 at 11 33 15 PM" src="https://github.com/user-attachments/assets/c1387bdd-2c75-407a-bf9a-6d4390b56b5d" />
